@@ -1,0 +1,996 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cou",
+				"country_code\t(models.py)"
+			],
+			[
+				"Cou",
+				"CountryAdmin"
+			],
+			[
+				"he",
+				"href\tproperty"
+			],
+			[
+				"user",
+				"username\twarning"
+			],
+			[
+				"class",
+				"className\tlet"
+			],
+			[
+				"clas",
+				"className\tlet"
+			],
+			[
+				"new",
+				"newTweets"
+			],
+			[
+				"nex",
+				"nextUrl\tconst"
+			],
+			[
+				"assert",
+				"assertEqual"
+			],
+			[
+				"fo",
+				"followers"
+			],
+			[
+				"p",
+				"profile"
+			],
+			[
+				"my",
+				"my_like_instances_count"
+			],
+			[
+				"twe",
+				"tweet"
+			],
+			[
+				"fri",
+				"first_name"
+			],
+			[
+				"P",
+				"Profile"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"Prof",
+				"ProfileForm"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"x",
+				"xhr\tconst"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"ev",
+				"event\tvar"
+			],
+			[
+				"id",
+				"idRegex"
+			],
+			[
+				"pat",
+				"path"
+			],
+			[
+				"tw",
+				"tweetId"
+			],
+			[
+				"fa",
+				"false\tkeyword"
+			],
+			[
+				"use",
+				"useState\talias"
+			],
+			[
+				"Twee",
+				"TweetCreate"
+			],
+			[
+				"Twe",
+				"TweetsList"
+			],
+			[
+				"A",
+				"ActionBtn"
+			],
+			[
+				"js",
+				"jsonData\tlet"
+			],
+			[
+				"set",
+				"setTweetsInit\tconst"
+			],
+			[
+				"twee",
+				"tweets\tconst"
+			],
+			[
+				"ne",
+				"newVal\tconst"
+			],
+			[
+				"cr",
+				"current\twarning"
+			],
+			[
+				"text",
+				"textAreaRef\tconst"
+			],
+			[
+				"tex",
+				"textAreaRef\tconst"
+			],
+			[
+				"Tweet",
+				"TweetsList"
+			],
+			[
+				"hand",
+				"handleSubmit\tconst"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"Like",
+				"LikeBtn\tfunction"
+			],
+			[
+				"setT",
+				"setTweets\tconst"
+			],
+			[
+				"ca",
+				"callback\tparameter"
+			],
+			[
+				"reac",
+				"React"
+			],
+			[
+				"respo",
+				"response_data"
+			],
+			[
+				"ass",
+				"assertEqual"
+			],
+			[
+				"get",
+				"get_client"
+			],
+			[
+				"cru",
+				"current_count"
+			],
+			[
+				"cu",
+				"currentCount"
+			],
+			[
+				"like",
+				"like_count"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"twet",
+				"tweet"
+			],
+			[
+				"is",
+				"is_retweet"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"X",
+				"X-Requested-With"
+			],
+			[
+				"per",
+				"permission_classes"
+			],
+			[
+				"seri",
+				"serializer"
+			],
+			[
+				"handle",
+				"handleTweetFromError"
+			],
+			[
+				"al",
+				"alert-danger"
+			],
+			[
+				"con",
+				"contentErrorMsg"
+			],
+			[
+				"content",
+				"contentError"
+			],
+			[
+				"co",
+				"contentErrorMsg"
+			],
+			[
+				"erro",
+				"errorJson"
+			],
+			[
+				"er",
+				"errorJson"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"JS",
+				"JsonResponse"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"tweets",
+				"tweetsContainerElement"
+			],
+			[
+				"format",
+				"formatTweetElement"
+			],
+			[
+				"is_",
+				"is_ajax"
+			],
+			[
+				"xr",
+				"xhr"
+			],
+			[
+				"han",
+				"handleTweetCreateFormDidSubmit"
+			],
+			[
+				"next",
+				"next_url"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Twet",
+				"TweetForm"
+			],
+			[
+				"t",
+				"tweet_id"
+			],
+			[
+				"f",
+				"formattedTweet"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"el",
+				"el1"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"form",
+				"from"
+			],
+			[
+				"ex",
+				"extends\tkeyword"
+			],
+			[
+				"posts",
+				"postsListClass\tproperty"
+			],
+			[
+				"cons",
+				"constructor\tkeyword"
+			],
+			[
+				"post",
+				"postItem\tparameter"
+			],
+			[
+				"this",
+				"thisComp"
+			],
+			[
+				"Post",
+				"PostInline\talias"
+			],
+			[
+				"PO",
+				"PostInline"
+			],
+			[
+				"cs",
+				"csrfToken\tconst"
+			],
+			[
+				"func",
+				"function\tkeyword"
+			],
+			[
+				"from-",
+				"from-0"
+			],
+			[
+				"va",
+				"validated_data\tparam"
+			],
+			[
+				"countr",
+				"country_of_issuance"
+			],
+			[
+				"Pay",
+				"PaymentMethod\tclass"
+			],
+			[
+				"Com",
+				"Component"
+			],
+			[
+				"response",
+				"responseJson\tparameter"
+			],
+			[
+				"Qu",
+				"QuestionResponseSerializer\tclass"
+			],
+			[
+				"q",
+				"Question\tclass"
+			],
+			[
+				"Q",
+				"Question\tclass"
+			],
+			[
+				"seria",
+				"serializer_class"
+			],
+			[
+				"Wel",
+				"WelcomeMatDiv"
+			],
+			[
+				"sender",
+				"sender_id"
+			],
+			[
+				"Lec",
+				"LectureNode〔class〕"
+			],
+			[
+				"lec",
+				"lectures"
+			],
+			[
+				"Proj",
+				"ProjectNode〔class〕"
+			],
+			[
+				"Django",
+				"DjangoFilterConnectionField〔module〕"
+			],
+			[
+				"L",
+				"LectureNode"
+			],
+			[
+				"Pr",
+				"ProjectNode〔class〕"
+			],
+			[
+				"User",
+				"UserModel"
+			],
+			[
+				"mes",
+				"message_data\tstatement"
+			],
+			[
+				"chat",
+				"chatmessage_set"
+			],
+			[
+				"Sear",
+				"SearchItemManager\tclass"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"sy",
+				"stylesheet"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"Chat",
+				"ChatQuerySetManager\tclass"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"COLOR_GRAY2R",
+				"COLOR_GRAY2RGBA\tinstance"
+			],
+			[
+				"COLOR_GRAY2",
+				"COLOR_GRAY2BGRA\tinstance"
+			],
+			[
+				"COLOR_GRAY",
+				"COLOR_GRAY2RGB\tinstance"
+			],
+			[
+				"file",
+				"filename\tstatement"
+			],
+			[
+				"out",
+				"output.avi"
+			],
+			[
+				"list",
+				"list_display\tstatement"
+			],
+			[
+				"fil",
+				"file2\tstatement"
+			],
+			[
+				"conso",
+				"console.log"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "country/serializers.py",
+			"settings":
+			{
+				"buffer_size": 279,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "country/views.py",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Packege",
+				"Package Control: Install Package"
+			],
+			[
+				"install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"typescri",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"set",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"react",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"set syntax reac",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"set syntax: templ",
+				"Set Syntax: React Templates"
+			],
+			[
+				"re",
+				"Set Syntax: React Templates"
+			],
+			[
+				"slinter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: react",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"react templ",
+				"Set Syntax: React Templates"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/dane/allfordjango/django-react",
+		"/mnt/dane/allfordjango/django-react/country",
+		"/mnt/dane/allfordjango/django-react/football",
+		"/mnt/dane/allfordjango/django-react/media",
+		"/mnt/dane/allfordjango/django-react/media/csvs",
+		"/mnt/dane/allfordjango/django-react/templates",
+		"/mnt/dane/allfordjango/django-react/templates/csvs"
+	],
+	"file_history":
+	[
+		"/mnt/dane/allfordjango/django-react/football/settings.py",
+		"/mnt/dane/allfordjango/django-react/csvs/forms.py",
+		"/mnt/dane/allfordjango/django-react/csvs/views.py",
+		"/mnt/dane/allfordjango/django-react/templates/csvs/upload.html",
+		"/mnt/dane/allfordjango/django-react/templates/base.html",
+		"/mnt/dane/allfordjango/django-react/football/urls.py",
+		"/mnt/dane/allfordjango/django-react/templates",
+		"/mnt/dane/allfordjango/django-react/csvs/urls.py",
+		"/mnt/dane/allfordjango/django-react/csvs/models.py",
+		"/mnt/dane/allfordjango/django-react/csvs/admin.py",
+		"/mnt/dane/allfordjango/django-react/country/models.py",
+		"/home/q/.config/sublime-text-3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/home/q/.config/sublime-text-3/Packages/User/All Autocomplete.sublime-settings",
+		"/mnt/dane/allfordjango/django-react/country/admin.py",
+		"/home/q/Dokumenty/foodball team name1.csv",
+		"/home/q/Dokumenty/international country iso3166-1.csv",
+		"/mnt/dane/allfordjango/django-react/frontend/views.py",
+		"/home/q/Pobrane/SoccerWiki_2021-01-26_1611646951.json",
+		"/home/q/.npm/_logs/2021-01-25T08_24_03_641Z-debug.log",
+		"/mnt/dane/allfordjango/django-react/frontend/src/index.js",
+		"/mnt/dane/allfordjango/django-react/frontend/src/components/App.js",
+		"/mnt/dane/allfordjango/django-react/frontend/templates/frotend/index.html",
+		"/mnt/dane/allfordjango/django-react/frontend/urls.py",
+		"/mnt/dane/allfordjango/django-react/frontend/webpack.config.js",
+		"/mnt/dane/allfordjango/django-react/frontend/.babelrc",
+		"/mnt/dane/allfordjango/django-react/frontend/package.json",
+		"/mnt/dane/allfordjango/django-react/frontend/templates/frontend/index.html",
+		"/mnt/dane/allfordjango/django-react/django_react/urls.py",
+		"/mnt/dane/allfordjango/django-react/frontend/src/App.js",
+		"/home/q/.config/sublime-text-3/Packages/User/ts.sublime-build",
+		"/mnt/dane/allfordjango/django-react/django_react/settings.py",
+		"/mnt/dane/allfordjango/django-react/leads/models.py",
+		"/mnt/dane/allfordjango/django-react/leads/views.py",
+		"/mnt/dane/allfordjango/django-react/leads/urls.py",
+		"/mnt/dane/allfordjango/django-react/leads/serializers.py",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/profiles/badge.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/profiles/components.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/profiles/index.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/index.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/profiles/lookup.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/public/index.html",
+		"/mnt/dane/allfordjango/tweetme2/todo.md",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2/settings.py",
+		"/mnt/dane/allfordjango/tweetme2/profiles/serializers.py",
+		"/mnt/dane/allfordjango/tweetme2/profiles/api/views.py",
+		"/mnt/dane/allfordjango/tweetme2/tweets/api/views.py",
+		"/mnt/dane/allfordjango/tweetme2/profiles/views.py",
+		"/mnt/dane/allfordjango/tweetme2/profiles/api/urls.py",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2/urls.py",
+		"/mnt/dane/allfordjango/tweetme2/tweets/views.py",
+		"/mnt/dane/allfordjango/tweetme2/templates/pages/feed.html",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/tweets/feed.js",
+		"/mnt/dane/allfordjango/tweetme2/templates/react/css.html",
+		"/mnt/dane/allfordjango/tweetme2/templates/react/js.html",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/lookup/components.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2/rest_api/dev.py",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/tweets/components.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/tweets/lookup.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/tweets/index.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/tweets/detail.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/index.css",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/tweets/list.js",
+		"/mnt/dane/allfordjango/tweetme2/tweets/serializers.py",
+		"/mnt/dane/allfordjango/tweetme2/tweets/api/urls.py",
+		"/mnt/dane/allfordjango/tweetme2/tweets/models.py",
+		"/mnt/dane/allfordjango/tweetme2/profiles/tests.py",
+		"/mnt/dane/allfordjango/tweetme2/tweets/tests.py",
+		"/mnt/dane/allfordjango/tweetme2/profiles/api/__init__.py",
+		"/mnt/dane/allfordjango/tweetme2/profiles/models.py",
+		"/mnt/dane/allfordjango/tweetme2/profiles/forms.py",
+		"/mnt/dane/allfordjango/tweetme2/templates/profiles/form.html",
+		"/mnt/dane/allfordjango/tweetme2/profiles/urls.py",
+		"/mnt/dane/allfordjango/tweetme2/templates/profiles/detail.html",
+		"/mnt/dane/allfordjango/tweetme2/profiles/admin.py",
+		"/mnt/dane/allfordjango/tweetme2/accounts/views.py",
+		"/mnt/dane/allfordjango/tweetme2/templates/components/form.html",
+		"/mnt/dane/allfordjango/tweetme2/templates/accounts/auth.html",
+		"/mnt/dane/allfordjango/tweetme2/tweets/api/__int__.py",
+		"/mnt/dane/allfordjango/tweetme2/tweets/api",
+		"/mnt/dane/allfordjango/tweetme2/templates/tweets/list.html",
+		"/mnt/dane/allfordjango/tweetme2/templates/tweets/detail.html",
+		"/mnt/dane/allfordjango/tweetme2/templates/tweets/profile.html",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/build/index.html",
+		"/mnt/dane/allfordjango/tweetme2/tweets/urls.py",
+		"/mnt/dane/allfordjango/tweetme2/templates/react_via_dj.html",
+		"/mnt/dane/allfordjango/tweetme2/templates/base.html",
+		"/mnt/dane/allfordjango/tweetme2/templates/react.html",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/tweets/create.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/tweets/buttons.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/lookup/index.js",
+		"/mnt/dane/allfordjango/tweetme2/templates/pages/home.html",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2/rest_api/__init__.py",
+		"/mnt/dane/allfordjango/tweetme2/templates/react/base_embed.html",
+		"/mnt/dane/allfordjango/tweetme2/templates/tweets/react_via_dj.html",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/App.js",
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/package.json",
+		"/mnt/dane/allfordjango/tweetme2/.gitignore",
+		"/mnt/dane/allfordjango/tweetme2/tweets/admin.py",
+		"/mnt/dane/allfordjango/tweetme2/tweets/forms.py",
+		"/mnt/dane/allfordjango/tweetme2/templates/components/footer.html",
+		"/mnt/dane/allfordjango/tweetme2/templates/components/navbar.html",
+		"/mnt/dane/allfordjango/src3/reactifydjango/src/reactify-ui/src/App.js",
+		"/mnt/dane/allfordjango/src3/reactifydjango/src/templates/react.html",
+		"/mnt/dane/allfordjango/src3/reactifydjango/src/reactify-ui/src/index.js",
+		"/mnt/dane/allfordjango/src3/reactifydjango/src/reactify/settings.py",
+		"/mnt/dane/allfordjango/src3/reactifydjango/src/reactify-ui/src/posts/Posts.js",
+		"/mnt/dane/allfordjango/src3/reactifydjango/src/reactify-ui/src/Posts/Posts.js",
+		"/mnt/dane/allfordjango/try-reactjs/try-reactjs/src/App.js",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/logout.html",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/urls.py",
+		"/Users/jmitch/Dev/cfe-v3/src/projects/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/onboarding/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/App.css",
+		"/Users/jmitch/Dev/cfe-v3/src/templates/footer.html",
+		"/Users/jmitch/Dev/cfe-v3/src/templates/getting-started/from-zero.html",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/urls.py",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/register-form.html",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/login-form.html",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/snippets/cfe_auth.html",
+		"/Users/jmitch/Dev/cfe-v3/src/templates/base.html",
+		"/Users/jmitch/Dev/cfe-v3/src/staticfiles/img/cfe-icon.svg",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/forms.py",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/templates/enroll/react.html",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/templates/enroll/enroll-view.html",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/templates/enroll/complete.html",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/api/views.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"link",
+			"slice",
+			"newVal",
+			"()",
+			"tweets"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/mnt/dane/allfordjango/django-react"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "country/serializers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "country/views.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 265.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 870.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
