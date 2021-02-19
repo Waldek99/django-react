@@ -8,9 +8,8 @@ class CountrySerializer(serializers.ModelSerializer):
 		fields = (
 			'id',
 			'country_name',
-			'nick_name',
-			'description_name',
-			'country_code',
+			'country_code2',
+			'country_code3',
 			'country_flag',
 			
 		)
