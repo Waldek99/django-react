@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_rename_app',
     # my apps
-    'country',
+    'gameplay',
 ]
 
 MIDDLEWARE = [

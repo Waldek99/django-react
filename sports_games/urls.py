@@ -20,7 +20,7 @@ from django.conf.urls.static import static
 
 from rest_framework.urlpatterns import format_suffix_patterns
 
-from country import views
+from gameplay import views
 
 
 urlpatterns = [

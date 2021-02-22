@@ -520,38 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "country/serializers.py",
+			"file": "sports_games/urls.py",
 			"settings":
 			{
-				"buffer_size": 261,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "csvs/views.py",
-			"settings":
-			{
-				"buffer_size": 939,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "country/models.py",
-			"settings":
-			{
-				"buffer_size": 694,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "country/admin.py",
-			"settings":
-			{
-				"buffer_size": 388,
-				"encoding": "UTF-8",
+				"buffer_size": 1182,
 				"line_ending": "Unix"
 			}
 		}
@@ -674,21 +646,43 @@
 	"expanded_folders":
 	[
 		"/mnt/dane/allfordjango/django-react",
-		"/mnt/dane/allfordjango/django-react/country"
+		"/mnt/dane/allfordjango/django-react/sports_games"
 	],
 	"file_history":
 	[
-		"/mnt/dane/allfordjango/django-react/media/country/country-flag-svg/za.svg",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0016_auto_20210212_0710.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0015_auto_20210211_0940.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0014_auto_20210211_0939.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0013_auto_20210211_0933.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0012_auto_20210211_0928.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0011_auto_20210211_0927.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0010_auto_20210211_0802.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0009_auto_20210211_0759.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0008_auto_20210211_0756.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0007_auto_20210209_1141.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0006_auto_20210209_1135.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0005_auto_20210209_0725.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0004_auto_20210209_0721.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0003_auto_20210205_0812.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0002_country_country_code2.py",
+		"/mnt/dane/allfordjango/django-react/sports_games/urls.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/apps.py",
+		"/mnt/dane/allfordjango/django-react/sports_games/settings.py",
+		"/mnt/dane/allfordjango/django-react/country/apps.py",
+		"/mnt/dane/allfordjango/django-react/manage.py",
+		"/mnt/dane/allfordjango/django-react/sports_games/wsgi.py",
+		"/mnt/dane/allfordjango/django-react/sports_games/asgi.py",
 		"/mnt/dane/allfordjango/django-react/football/urls.py",
-		"/mnt/dane/allfordjango/django-react/country/admin.py",
-		"/mnt/dane/allfordjango/django-react/country/views.py",
-		"/mnt/dane/allfordjango/django-react/country/models.py",
-		"/mnt/dane/allfordjango/django-react/csvs/views.py",
-		"/home/q/Dokumenty/international country iso3166-1.csv",
+		"/mnt/dane/allfordjango/django-react/football/settings.py",
 		"/mnt/dane/allfordjango/django-react/country/serializers.py",
+		"/mnt/dane/allfordjango/django-react/csvs/views.py",
+		"/mnt/dane/allfordjango/django-react/country/admin.py",
+		"/mnt/dane/allfordjango/django-react/country/models.py",
+		"/mnt/dane/allfordjango/django-react/media/country/country-flag-svg/za.svg",
+		"/mnt/dane/allfordjango/django-react/country/views.py",
+		"/home/q/Dokumenty/international country iso3166-1.csv",
 		"/mnt/dane/allfordjango/django-react/csvs/models.py",
 		"/mnt/dane/allfordjango/django-react/csvs/forms.py",
-		"/mnt/dane/allfordjango/django-react/football/settings.py",
 		"/mnt/dane/allfordjango/django-react/templates/csvs/upload.html",
 		"/mnt/dane/allfordjango/django-react/templates/base.html",
 		"/mnt/dane/allfordjango/django-react/templates",
@@ -783,29 +777,7 @@
 		"/mnt/dane/allfordjango/tweetme2/templates/components/footer.html",
 		"/mnt/dane/allfordjango/tweetme2/templates/components/navbar.html",
 		"/mnt/dane/allfordjango/src3/reactifydjango/src/reactify-ui/src/App.js",
-		"/mnt/dane/allfordjango/src3/reactifydjango/src/templates/react.html",
-		"/mnt/dane/allfordjango/src3/reactifydjango/src/reactify-ui/src/index.js",
-		"/mnt/dane/allfordjango/src3/reactifydjango/src/reactify/settings.py",
-		"/mnt/dane/allfordjango/src3/reactifydjango/src/reactify-ui/src/posts/Posts.js",
-		"/mnt/dane/allfordjango/src3/reactifydjango/src/reactify-ui/src/Posts/Posts.js",
-		"/mnt/dane/allfordjango/try-reactjs/try-reactjs/src/App.js",
-		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/logout.html",
-		"/Users/jmitch/Dev/cfe-v3/src/accounts/views.py",
-		"/Users/jmitch/Dev/cfe-v3/src/accounts/urls.py",
-		"/Users/jmitch/Dev/cfe-v3/src/projects/views.py",
-		"/Users/jmitch/Dev/cfe-v3/src/onboarding/views.py",
-		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/App.css",
-		"/Users/jmitch/Dev/cfe-v3/src/templates/footer.html",
-		"/Users/jmitch/Dev/cfe-v3/src/templates/getting-started/from-zero.html",
-		"/Users/jmitch/Dev/cfe-v3/src/cfe/urls.py",
-		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/register-form.html",
-		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/login-form.html",
-		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/snippets/cfe_auth.html",
-		"/Users/jmitch/Dev/cfe-v3/src/templates/base.html",
-		"/Users/jmitch/Dev/cfe-v3/src/staticfiles/img/cfe-icon.svg",
-		"/Users/jmitch/Dev/cfe-v3/src/accounts/forms.py",
-		"/Users/jmitch/Dev/cfe-v3/src/enroll/templates/enroll/react.html",
-		"/Users/jmitch/Dev/cfe-v3/src/enroll/templates/enroll/enroll-view.html"
+		"/mnt/dane/allfordjango/src3/reactifydjango/src/templates/react.html"
 	],
 	"find":
 	{
@@ -851,121 +823,37 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "country/serializers.py",
-					"semi_transient": false,
+					"file": "sports_games/urls.py",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 261,
+						"buffer_size": 1182,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								194,
-								194
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "csvs/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 939,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								584,
-								584
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 148.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "country/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 694,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								565,
-								565
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 225.0,
+						"translation.y": 270.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "country/admin.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 388,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								341,
-								341
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 14.0,
-						"translation.y": 90.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]

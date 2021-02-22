@@ -7,7 +7,7 @@ import django.utils.timezone
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('country', '0001_initial'),
+        ('gameplay', '0001_initial'),
     ]
 
     operations = [
