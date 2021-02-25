@@ -27,9 +27,8 @@ from gameplay import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('accounts/', include('allauth.urls')),
-    path('api/country/', views.CountryList.as_view()),
-    path('api/country/<int:pk>/', views.CountryDetail.as_view()),
-    path('', views.HomePageView.as_view(), name='home'),
+    path('api/countries/', include('gameplay.api.urls')),
+    path('', include('gameplay.urls')),
 ]
 
 

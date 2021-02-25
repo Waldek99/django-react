@@ -19,21 +19,5 @@ class HomePageView(TemplateView):
 		data['page_welcome'] = 'Welcome!'
 		return data
 
-class SmallResultsSetPagination(PageNumberPagination):
-	page_size = 20
-	page_size_query_param = 'page_size'
-	max_page_size = 1000
-
-@permission_classes([IsAuthenticated])
-class CountryList(generics.ListCreateAPIView):
-	queryset = Country.objects.all()
-	serializer_class = CountrySerializer
-	pagination_class = SmallResultsSetPagination
-
-@permission_classes([IsAuthenticated])
-class CountryDetail(generics.RetrieveUpdateDestroyAPIView):
-	queryset = Country.objects.all()
-	serializer_class = CountrySerializer
-
 
 
