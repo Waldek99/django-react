@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"con",
+				"contrib\t(urls.py)"
+			],
+			[
+				"model",
+				"Model"
+			],
+			[
 				"imag",
 				"image_img\tabc"
 			],
@@ -260,10 +268,6 @@
 				"alert-danger"
 			],
 			[
-				"con",
-				"contentErrorMsg"
-			],
-			[
 				"content",
 				"contentError"
 			],
@@ -510,10 +514,6 @@
 			[
 				"COLOR_GRAY2",
 				"COLOR_GRAY2BGRA\tinstance"
-			],
-			[
-				"COLOR_GRAY",
-				"COLOR_GRAY2RGB\tinstance"
 			]
 		]
 	},
@@ -523,7 +523,44 @@
 			"file": "sports_games/urls.py",
 			"settings":
 			{
-				"buffer_size": 1182,
+				"buffer_size": 1168,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "accounts/models.py",
+			"settings":
+			{
+				"buffer_size": 188,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "accounts/forms.py",
+			"settings":
+			{
+				"buffer_size": 355,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sports_games/settings.py",
+			"settings":
+			{
+				"buffer_size": 4140,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "accounts/admin.py",
+			"settings":
+			{
+				"buffer_size": 460,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -646,10 +683,30 @@
 	"expanded_folders":
 	[
 		"/mnt/dane/allfordjango/django-react",
-		"/mnt/dane/allfordjango/django-react/sports_games"
+		"/mnt/dane/allfordjango/django-react/accounts",
+		"/mnt/dane/allfordjango/django-react/accounts/migrations",
+		"/mnt/dane/allfordjango/django-react/sports_games",
+		"/mnt/dane/allfordjango/django-react/templates",
+		"/mnt/dane/allfordjango/django-react/templates/registration"
 	],
 	"file_history":
 	[
+		"/mnt/dane/allfordjango/django-react/db.sqlite3",
+		"/mnt/dane/allfordjango/django-react/templates/home.html",
+		"/mnt/dane/allfordjango/django-react/sports_games/settings.py",
+		"/mnt/dane/allfordjango/django-react/templates/registration/password_rest_form.gtml",
+		"/mnt/dane/allfordjango/django-react/templates/base.html",
+		"/mnt/dane/allfordjango/django-react/templates/registration/login.html",
+		"/mnt/dane/allfordjango/django-react/templates/registration/signup.html",
+		"/mnt/dane/allfordjango/django-react/accounts/views.py",
+		"/mnt/dane/allfordjango/django-react/accounts/urls.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/views.py",
+		"/mnt/dane/allfordjango/django-react/templates/accounts/login.html",
+		"/mnt/dane/allfordjango/django-react/templates/accounts",
+		"/mnt/dane/allfordjango/django-react/gameplay/models.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/forms.py",
+		"/mnt/dane/allfordjango/django-react/gameplay/admin.py",
+		"/mnt/dane/allfordjango/django-react/.gitignore",
 		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0016_auto_20210212_0710.py",
 		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0015_auto_20210211_0940.py",
 		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0014_auto_20210211_0939.py",
@@ -667,7 +724,6 @@
 		"/mnt/dane/allfordjango/django-react/gameplay/migrations/0002_country_country_code2.py",
 		"/mnt/dane/allfordjango/django-react/sports_games/urls.py",
 		"/mnt/dane/allfordjango/django-react/gameplay/apps.py",
-		"/mnt/dane/allfordjango/django-react/sports_games/settings.py",
 		"/mnt/dane/allfordjango/django-react/country/apps.py",
 		"/mnt/dane/allfordjango/django-react/manage.py",
 		"/mnt/dane/allfordjango/django-react/sports_games/wsgi.py",
@@ -684,7 +740,6 @@
 		"/mnt/dane/allfordjango/django-react/csvs/models.py",
 		"/mnt/dane/allfordjango/django-react/csvs/forms.py",
 		"/mnt/dane/allfordjango/django-react/templates/csvs/upload.html",
-		"/mnt/dane/allfordjango/django-react/templates/base.html",
 		"/mnt/dane/allfordjango/django-react/templates",
 		"/mnt/dane/allfordjango/django-react/csvs/urls.py",
 		"/mnt/dane/allfordjango/django-react/csvs/admin.py",
@@ -763,21 +818,7 @@
 		"/mnt/dane/allfordjango/tweetme2/templates/base.html",
 		"/mnt/dane/allfordjango/tweetme2/templates/react.html",
 		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/tweets/create.js",
-		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/tweets/buttons.js",
-		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/lookup/index.js",
-		"/mnt/dane/allfordjango/tweetme2/templates/pages/home.html",
-		"/mnt/dane/allfordjango/tweetme2/tweetme2/rest_api/__init__.py",
-		"/mnt/dane/allfordjango/tweetme2/templates/react/base_embed.html",
-		"/mnt/dane/allfordjango/tweetme2/templates/tweets/react_via_dj.html",
-		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/App.js",
-		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/package.json",
-		"/mnt/dane/allfordjango/tweetme2/.gitignore",
-		"/mnt/dane/allfordjango/tweetme2/tweets/admin.py",
-		"/mnt/dane/allfordjango/tweetme2/tweets/forms.py",
-		"/mnt/dane/allfordjango/tweetme2/templates/components/footer.html",
-		"/mnt/dane/allfordjango/tweetme2/templates/components/navbar.html",
-		"/mnt/dane/allfordjango/src3/reactifydjango/src/reactify-ui/src/App.js",
-		"/mnt/dane/allfordjango/src3/reactifydjango/src/templates/react.html"
+		"/mnt/dane/allfordjango/tweetme2/tweetme2-web/src/tweets/buttons.js"
 	],
 	"find":
 	{
@@ -829,18 +870,18 @@
 				{
 					"buffer": 0,
 					"file": "sports_games/urls.py",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1182,
+						"buffer_size": 1168,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1087,
+								1087
 							]
 						],
 						"settings":
@@ -850,10 +891,124 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 270.0,
+						"translation.y": 314.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "accounts/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "accounts/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sports_games/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1114,
+								1114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 496.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "accounts/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]

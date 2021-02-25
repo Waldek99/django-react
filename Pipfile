@@ -9,6 +9,7 @@ djangorestframework = "*"
 django-cors-headers = "*"
 pillow = "*"
 django-rename-app = "*"
+django-allauth = "*"
 
 [dev-packages]
 
