@@ -1,5 +1,6 @@
 from django.conf import settings
 from django.db import models
+from django.urls import reverse
 
 from django.utils.html import mark_safe
 
@@ -30,14 +31,24 @@ GAME_MODE_CHOICES = [
 	('CU', 'Cup'),
 ]
 
-class UserSelection(models.Model):
+class GameplaySelection(models.Model):
 	user = models.ForeignKey(User, on_delete=models.CASCADE)
-	type_of_game = models.CharField(max_length=2, choices=TYPE_OF_GAME_CHOICES)
-	level_of_game = models.CharField(max_length=2, choices=LEVEL_OF_GAME_CHOICES)
+	game_name = models.CharField(max_length=120, null=True)
+	game_content = models.TextField(blank=True, null=True)
+	game_type = models.CharField(max_length=2, choices=TYPE_OF_GAME_CHOICES)
+	game_level = models.CharField(max_length=2, choices=LEVEL_OF_GAME_CHOICES)
 	game_mode = models.CharField(max_length=2, choices=GAME_MODE_CHOICES)
+	game_template = models.CharField(max_length=120, blank=True, null=True)
+	game_css = models.CharField(max_length=120, blank=True, null=True)
 
 	def __str__(self):
 		return self.user
+
+	def get_absolute_url(self):
+		return reverse('detail', kwargs={'pk': self.pk})
+
+	class Meta:
+		ordering = ['-id']
 
 class Country(models.Model):
 	country_name = models.CharField(max_length=120)

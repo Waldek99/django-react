@@ -4,7 +4,7 @@ from django.forms import ModelForm
 from .models import UserSelection
 
 
-class UserSelectionForm(ModelForm):
+class UserSelectionForm(forms.ModelForm):
 	class Meta:
 		model = UserSelection
 		fields = [

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}User Selection List{% endblock %}
+
+{% block content %}
+<ul>
+{% for object in object_list %}
+    <li>{{ object.id}} - {{ object.game_name }} - {{ user }}</li>
+{% endfor %}
+
+{% endblock content %}

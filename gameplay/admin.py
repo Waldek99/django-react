@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Country, UserSelection
+from .models import Country, GameplaySelection
 
 # Register your models here.
 
@@ -17,15 +17,19 @@ class CountryAdmin(admin.ModelAdmin):
 	readonly_fields = ('flag_img',)
 
 
-class UserSelectionAdmin(admin.ModelAdmin):
+class GameplaySelectionAdmin(admin.ModelAdmin):
 	list_display = (
 		'user',
-		'type_of_game',
-		'level_of_game',
+		'game_name',
+		'game_content',
+		'game_type',
+		'game_level',
 		'game_mode',
+		'game_template',
+		'game_css',
 
 	)
 
 
 admin.site.register(Country, CountryAdmin)
-admin.site.register(UserSelection, UserSelectionAdmin)
+admin.site.register(GameplaySelection, GameplaySelectionAdmin)

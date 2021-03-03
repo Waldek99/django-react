@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}User Selection Detail{% endblock %}
+
+{% block content %}
+<p>{{ user }}</p>
+<p>{{ object.game_name }}</p>
+<p>{{ object.get_game_type_display }}</p>
+<p>{{ object.get_game_level_display }}</p>
+<p>{{ object.get_game_mode_display }}</p>
+
+{% endblock content %}
