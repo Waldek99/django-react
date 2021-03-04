@@ -60,6 +60,9 @@ class Country(models.Model):
 	def __str__(self):
 		return self.country_name
 
+	class Meta:
+		ordering = ['-id']
+
 # Function shows pictures in admins.
 
 	def flag_img(self):

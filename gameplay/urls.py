@@ -10,6 +10,11 @@ from .views import (
 	GameplaySelectionDeleteView,
 )
 
+'''
+CLIENT
+Base ENDPOINT /gameplay/
+'''
+
 urlpatterns = [
 	path('', HomePageView.as_view(), name='home'),
 	path('add/', GameplaySelectionCreate.as_view(), name='add'),

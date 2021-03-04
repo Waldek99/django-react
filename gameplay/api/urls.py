@@ -3,15 +3,19 @@ from django.urls import path
 
 from .views import (
 	CountryList,
-	CountryDetail
+	CountryDetail,
+	GameplaySelectionList,
+	GameplaySelectionDetail,
 )
 
 '''
 CLIENT
-Base ENDPOINT /api/countries/
+Base ENDPOINT /api/Gameplay/
 '''
 
 urlpatterns = [
-	path('', CountryList.as_view()),
-    path('<int:pk>/', CountryDetail.as_view()),
+	path('country/', CountryList.as_view()),
+    path('country/<int:pk>/', CountryDetail.as_view()),
+    path('', GameplaySelectionList.as_view()),
+    path('<int:pk>/', GameplaySelectionDetail.as_view()),
 ]
