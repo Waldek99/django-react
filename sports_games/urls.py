@@ -27,6 +27,7 @@ from gameplay import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('accounts/', include('allauth.urls')),
+    path('api/accounts/', include('accounts.api.urls')),
     path('api/gameplay/', include('gameplay.api.urls')),
     path('gameplay/', include('gameplay.urls')),
 ]
